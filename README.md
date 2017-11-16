@@ -4,13 +4,17 @@
 
 <h2>Team Project</h2>
 
-<a href="https://github.com/Tedradica/Dramaker">Dramaker</a>
-<a href="https://github.com/Tedradica/student_id">Mobile Student Card</a>
+£ªDramaker - <a href="https://github.com/Tedradica/Dramaker">View Details</a>
+<br>
+£ªMobile Student Card - <a href="https://github.com/Tedradica/student_id">View Details</a>
+<br>
 
 <hr>
 
 <h2>Personal Project</h2>
 
-<a href="https://github.com/Tedradica/notice-board">PettoMotto(Shopping Mall)</a>
-<a href="https://github.com/Tedradica/todolist">To Do List</a>
-<a href="https://github.com/Tedradica/PushButton">Push Button(Game)</a>
+£ªPettoMotto(Shopping Mall) - <a href="https://github.com/Tedradica/notice-board">View Details</a>
+<br>
+£ªTo Do List - <a href="https://github.com/Tedradica/todolist">View Details</a>
+<br>
+£ªPush Button(Game) - <a href="https://github.com/Tedradica/PushButton">View Details</a>
